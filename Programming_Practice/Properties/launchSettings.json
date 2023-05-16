@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Programming_Practice": {
+      "commandName": "Project",
+      "commandLineArgs": "5\r\n"
+    }
+  }
+}
